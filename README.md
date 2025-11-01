@@ -1,5 +1,13 @@
 # rust-game-of-life
 Simple side-project I made to practice Rust.
+The app will automatically stop if:
+- the next generation is the same as the current one
+- there are no live cells on the screen
+- it goes through the given number of generations
+
+The starters I have provided are random stuff, some are things that repeat infinitely, some die pretty quick.
+
+*Number 7 is my favorite one :)*
 
 # Things I leaned 
 - How to use a 2D array (vector in my case)
